@@ -5,9 +5,9 @@ Dokumentasi API dapat dilihat di link berikut : https://documenter.getpostman.co
 Note : Dokumentasi API tidak memunculkan token, sehingga untuk mendapatkan tokennya silahkan jalankan aplikasi dan lakukan login untuk mendapatkan Bearer Token.
 
 ## Menjalankan Base Project
-- Ubah .env.example menjadi file .env dan isi filenya dengan access token.
+- Ubah ```.env.example``` menjadi file ```.env``` dan isi filenya dengan access token.
 - Jalankan perintah ```npm i``` atau ```npm install ``` untuk menginstal package yang dibutuhkan.
-- Jalankan file table.sql yang berada pada folder sql untuk membuat database.
+- Jalankan file ```table.sql``` yang berada pada folder sql untuk membuat database.
 - Kemudian jalankan perintah ```npm run dev``` untuk menjalankan aplikasinya.
 - Kemudian coba hit server dari cmd ```curl --location 'http://localhost:10000/api/v1/test'```
 
