@@ -2,7 +2,7 @@
 
 Dokumentasi API dapat dilihat di link berikut : https://documenter.getpostman.com/view/29236885/2s9Y5Wx3Kq
 
-NOTE : Dokumentasi API tidak memunculkan token, sehingga untuk mendapatkan tokennya silahkan jalankan aplikasi dan lakukan login untuk mendapatkan Bearer Token.
+Note : Dokumentasi API tidak memunculkan token, sehingga untuk mendapatkan tokennya silahkan jalankan aplikasi dan lakukan login untuk mendapatkan Bearer Token.
 
 ## Menjalankan Base Project
 - Ubah ```.env.example``` menjadi file ```.env``` dan isi filenya dengan access token.
